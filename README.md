@@ -45,9 +45,12 @@ class Movie(models.Model):
     def __str__(self):
         return self.title
 
+```
+
 ## OUTPUT
 
-Screenshot 2025-04-23 170919.png
+c:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-23 182604.png
+
 
 
 ## RESULT
