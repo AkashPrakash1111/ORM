@@ -49,7 +49,7 @@ class Movie(models.Model):
 
 ## OUTPUT
 
-c:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-23 182604.png
+![alt text](<Screenshot 2025-04-23 182604.png>)
 
 
 
